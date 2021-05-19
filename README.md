@@ -10,7 +10,7 @@ This will not be structured as an academic course, and as such will require disc
 
 ## What Matters? -- What's in the 'Course'?
 
-1. Mathematics
+### Mathematics
   - Statistics
   - Probability
   - Linear Algebra
@@ -27,7 +27,7 @@ This will not be structured as an academic course, and as such will require disc
 
   All of these questions are answered once you dive a little deeper into the mathematics behind your favorite machine learning or deep learning algorithm! These are only *some* of the questions that we need to answer when we look at solving a problem with data science!
 
-2. Design -- The Process
+### Design -- The Process
 
   I can't call this "system design" because there *are* system design questions related to data science, and those aren't really what I'm going to talk about here. Instead, what I want you to learn is the process we need to go through to begin solving a problem. These include:
 
@@ -40,16 +40,16 @@ This will not be structured as an academic course, and as such will require disc
 
   Then, once you've done all these steps, usually you'll evaluate your success (or lack thereof) and try something different (different preprocessing methods, algorithms, etc.) until you get the outcome you want.
 
-3. Good data
+### Good data
 
   You'll notice that this is *part* of number 2, and I'm mentioning it separately for good reason. You can only get SO far with really great, high-tech or novel modeling techniques. You also HAVE to have good data. I'll share some resources for figuring out *what that means* for your specific use cases.
 
-4. Feature Selection/Feature Engineering
+### Feature Selection/Feature Engineering
 
   While neural networks are great at learning predictive features, your typical machine learning (statistical) models won't do as well with noise, and besides, good feature selection and feature engineering can make your training and inferencing more performative (both in terms of accuracy and speed).
 
   But I'm getting ahead of myself. Find all the resources and practice projects you need in this section!
 
-5. Modeling
+### Modeling
 
   This is everyone's favorite part (mine too) because it's fun. I'll share resources for a myriad of different statistical and deep learning techniques as well as some notebooks for you to try your hand at different preprocessing, feature selection, and hyperparameter tuning techniques.
