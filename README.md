@@ -6,7 +6,7 @@ It is, however, a repository of useful starting points, project ideas, and curio
 
 It aims to focus on *the skills that matter* as a data scientist - from my perspective, which is subject to evolve as I gain more information.
 
-This will not be structured as an academic course, and as such will require discipline and your own curiosity to maximize the materials I've gathered here. For each section there will be a folder in [resources]() containing diagrams, notes, and links to external sources. There will also be a notebook for *most* sections, which contain tutorials, project starting code, datasets to play with, etc.
+This will not be structured as an academic course, and as such will require discipline and your own curiosity to maximize the materials I've gathered here. For each section there will be a folder in [resources]() containing diagrams, notes, and links to external sources. There will also be a notebook for *some* sections, which contain tutorials, project starting code, datasets to play with, etc.
 
 ## What Matters? -- What's in the 'Course'?
 
